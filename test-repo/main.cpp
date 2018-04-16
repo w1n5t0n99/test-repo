@@ -6,6 +6,12 @@ void test_print()
 
 }
 
+void test_print_main()
+{
+	std::cout << "print main" << std::endl;
+
+}
+
 int main()
 {
 
