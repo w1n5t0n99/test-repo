@@ -2,7 +2,8 @@
 
 void test_print()
 {
-	std::cout << "print main" << std::endl;
+	std::cout << "print wip" << std::endl;
+
 }
 
 int main()
