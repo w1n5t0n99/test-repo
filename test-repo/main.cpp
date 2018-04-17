@@ -10,6 +10,11 @@ void test_print2()
 	std::cout << "test print 2" << std::endl;
 }
 
+void diff()
+{
+		std::cout << "diff function" << std::endl;
+}
+
 int main()
 {
 
