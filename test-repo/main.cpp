@@ -22,6 +22,11 @@ void diff()
 		std::cout << "diff function" << std::endl;
 }
 
+void test_branch()
+{
+	std::cout << "test branch" << std::endl;
+}
+
 int main()
 {
 
