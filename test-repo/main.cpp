@@ -22,6 +22,11 @@ void diff()
 		std::cout << "diff function" << std::endl;
 }
 
+void master_print()
+{
+	std::cout << "master print" << std::endl;
+}
+
 int main()
 {
 
