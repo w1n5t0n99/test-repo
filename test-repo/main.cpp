@@ -22,9 +22,9 @@ void diff()
 		std::cout << "diff function" << std::endl;
 }
 
-void master_print()
+void test_branch()
 {
-	std::cout << "master print" << std::endl;
+	std::cout << "test branch" << std::endl;
 }
 
 int main()
